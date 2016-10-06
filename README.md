@@ -14,11 +14,13 @@ Clone this repository to your local machine
 
 <hr>
 
-**Software Versions used for project :**
+### Software Versions
 
-Unity - Hololens Edition
+**Unity** : Version 5.4.0f3-HTP
 
-Windows 10 - School Edition minimum
+**Visual Studio 2015** : Version 14.0.25431.01 Update 3
+
+**Windows 10** : School Edition minimum
 
 
 
